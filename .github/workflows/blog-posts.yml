@@ -1,0 +1,28 @@
+name: Latest blog posts
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Update blog posts
+        run: python update_posts.py
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "blog-post-bot"
+          git config user.email "blog-post-bot@example.com"
+          git add README.md
+          git commit -m "Update blog posts"
+          git push
