@@ -1,5 +1,6 @@
 """Fetch latest blog posts from sitemap and update README.md."""
 import re
+import subprocess
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -9,10 +10,19 @@ MAX_POSTS = 10
 
 
 def fetch_url(url):
-    """Fetch URL content as string."""
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8")
+    """Fetch URL content as string, with curl fallback for restrictive servers."""
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; KopplaBlogBot/1.0; +https://github.com/KopplaHQ)"
+        })
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return resp.read().decode("utf-8")
+    except Exception:
+        return subprocess.check_output(
+            ["curl", "-sL", "-A", "Mozilla/5.0 (compatible; KopplaBlogBot/1.0)", url],
+            text=True,
+            timeout=30,
+        )
 
 
 def get_page_title(url):
