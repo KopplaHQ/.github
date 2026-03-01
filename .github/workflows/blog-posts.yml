@@ -20,9 +20,9 @@ jobs:
         run: python update_posts.py
       - name: Commit and push if changed
         run: |
-          git diff --quiet README.md && exit 0
+          git diff --quiet profile/README.md && exit 0
           git config user.name "blog-post-bot"
           git config user.email "blog-post-bot@example.com"
-          git add README.md
+          git add profile/README.md
           git commit -m "Update blog posts"
           git push

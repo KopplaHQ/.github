@@ -78,7 +78,8 @@ def main():
 
     block = "| Date | Post |\n| --- | --- |\n" + "\n".join(rows)
 
-    with open("README.md") as f:
+    readme_path = "profile/README.md"
+    with open(readme_path) as f:
         readme = f.read()
 
     readme = re.sub(
@@ -88,7 +89,7 @@ def main():
         flags=re.DOTALL,
     )
 
-    with open("README.md", "w") as f:
+    with open(readme_path, "w") as f:
         f.write(readme)
 
     print(f"Updated README with {len(rows)} posts")
