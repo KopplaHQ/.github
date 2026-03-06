@@ -22,5 +22,5 @@ We build tools and services that help mental health professionals grow their pra
 | Jan 2026 | [**Beyond Keywords: Marketing Strategies for Mental Health Professionals**](https://kopplamarketing.com/blog/complete-digital-marketing-strategy-mental-health-professionals/) |
 | Jan 2026 | [**Convert Website Visitors Into Clients: A Therapists Guide**](https://kopplamarketing.com/blog/convert-website-visitors-into-therapy-clients/) |
 | Jan 2026 | [**Mental Health Website Development: Building Trust Through Technology**](https://kopplamarketing.com/blog/mental-health-website-development-guide/) |
-| Jan 2026 | [**Just a moment...**](https://kopplamarketing.com/blog/psychologist-digital-marketing-guide/) |
+| Jan 2026 | [**Digital Marketing for Psychologists**](https://kopplamarketing.com/blog/psychologist-digital-marketing-guide/) |
 <!-- BLOG-POST-LIST:END -->
