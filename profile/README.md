@@ -13,10 +13,10 @@ We build tools and services that help mental health professionals grow their pra
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Mar 2026 | [**Build a Client Pipeline You Control as a Therapist**](https://kopplamarketing.com/blog/build-client-pipeline-therapists/) |
 | Mar 2026 | [**Therapist SEO: Why Search Volume Is the Wrong Metric**](https://kopplamarketing.com/blog/therapist-seo-content-strategy-beyond-keywords/) |
 | Feb 2026 | [**The Color Science Behind Therapist Websites**](https://kopplamarketing.com/blog/color-science-therapist-website-design-oklch/) |
 | Feb 2026 | [**HIPAA-Compliant Online Reviews: A Guide for Therapists**](https://kopplamarketing.com/blog/hipaa-compliance-for-online-reviews/) |
-| Feb 2026 | [**Build a Client Pipeline You Control as a Therapist**](https://kopplamarketing.com/blog/build-client-pipeline-therapists/) |
 | Feb 2026 | [**Email Warmup for Therapists: Skip Costly Services**](https://kopplamarketing.com/blog/email-warmup-therapists/) |
 | Jan 2026 | [**Expert Digital Marketing for Therapists &amp; Mental Health Pros**](https://kopplamarketing.com/blog/digital-marketing-for-therapists/) |
 | Jan 2026 | [**How to Find the Best Mental Health SEO Keywords for Content Marketing**](https://kopplamarketing.com/blog/best-mental-health-seo-keywords-for-content-marketing/) |
