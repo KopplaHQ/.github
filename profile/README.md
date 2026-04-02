@@ -13,6 +13,7 @@ We build tools and services that help mental health professionals grow their pra
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Apr 2026 | [**Therapist Local SEO: Google Business Profile &amp; Schema Guide**](https://kopplamarketing.com/blog/therapist-local-seo-google-business-profile-schema/) |
 | Mar 2026 | [**Build a Client Pipeline You Control as a Therapist**](https://kopplamarketing.com/blog/build-client-pipeline-therapists/) |
 | Mar 2026 | [**Therapist SEO: Why Search Volume Is the Wrong Metric**](https://kopplamarketing.com/blog/therapist-seo-content-strategy-beyond-keywords/) |
 | Feb 2026 | [**The Color Science Behind Therapist Websites**](https://kopplamarketing.com/blog/color-science-therapist-website-design-oklch/) |
@@ -22,5 +23,4 @@ We build tools and services that help mental health professionals grow their pra
 | Jan 2026 | [**How to Find the Best Mental Health SEO Keywords for Content Marketing**](https://kopplamarketing.com/blog/best-mental-health-seo-keywords-for-content-marketing/) |
 | Jan 2026 | [**Beyond Keywords: Marketing Strategies for Mental Health Professionals**](https://kopplamarketing.com/blog/complete-digital-marketing-strategy-mental-health-professionals/) |
 | Jan 2026 | [**Convert Website Visitors Into Clients: A Therapists Guide**](https://kopplamarketing.com/blog/convert-website-visitors-into-therapy-clients/) |
-| Jan 2026 | [**Mental Health Website Development: Building Trust Through Technology**](https://kopplamarketing.com/blog/mental-health-website-development-guide/) |
 <!-- BLOG-POST-LIST:END -->
