@@ -13,6 +13,7 @@ We build tools and services that help mental health professionals grow their pra
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| May 2026 | [**How Health Systems Think About Mental Health Client Privacy on the Web**](https://kopplamarketing.com/blog/blog-healthcare-security-lessons/) |
 | May 2026 | [**Clients Talk to AI First: How Therapists Must Adapt**](https://kopplamarketing.com/blog/clients-ai-mental-health-conversations/) |
 | Apr 2026 | [**Mental Health SEO Keywords: How Therapists Get Found Online**](https://kopplamarketing.com/blog/best-mental-health-seo-keywords-for-content-marketing/) |
 | Apr 2026 | [**Therapist Local SEO: Google Business Profile &amp; Schema Guide**](https://kopplamarketing.com/blog/therapist-local-seo-google-business-profile-schema/) |
@@ -22,5 +23,4 @@ We build tools and services that help mental health professionals grow their pra
 | Feb 2026 | [**HIPAA-Compliant Online Reviews: A Guide for Therapists**](https://kopplamarketing.com/blog/hipaa-compliance-for-online-reviews/) |
 | Feb 2026 | [**Email Warmup for Therapists: Skip Costly Services**](https://kopplamarketing.com/blog/email-warmup-therapists/) |
 | Jan 2026 | [**Expert Digital Marketing for Therapists &amp; Mental Health Pros**](https://kopplamarketing.com/blog/digital-marketing-for-therapists/) |
-| Jan 2026 | [**Beyond Keywords: Marketing Strategies for Mental Health Professionals**](https://kopplamarketing.com/blog/complete-digital-marketing-strategy-mental-health-professionals/) |
 <!-- BLOG-POST-LIST:END -->
