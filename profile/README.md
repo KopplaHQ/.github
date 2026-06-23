@@ -13,6 +13,8 @@ We build tools and services that help mental health professionals grow their pra
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Jun 2026 | [**How to Optimize Your Therapy Website for AI Search Queries (2026 Guide)**](https://kopplamarketing.com/blog/optimize-therapy-website-for-ai-search-queries/) |
+| Jun 2026 | [**Therapist&#x27;s Guide to Email Marketing for Mental Health**](https://kopplamarketing.com/blog/therapists-guide-to-email-marketing-for-mental-health/) |
 | Jun 2026 | [**Mental Health SEO Keywords: 40+ Examples for Therapists**](https://kopplamarketing.com/blog/best-mental-health-seo-keywords-for-content-marketing/) |
 | Jun 2026 | [**Digital Marketing for Mental Health Professionals**](https://kopplamarketing.com/blog/digital-marketing-for-therapists-ai-2026/) |
 | Jun 2026 | [**Google Business Profile for Therapists: How-To Guide**](https://kopplamarketing.com/blog/get-clients-google-business-profile-therapists/) |
@@ -21,6 +23,4 @@ We build tools and services that help mental health professionals grow their pra
 | Jun 2026 | [**Generative Engine Optimization (GEO) for Private Practices**](https://kopplamarketing.com/blog/generative-engine-optimization-for-private-practices/) |
 | May 2026 | [**How Health Systems Think About Mental Health Client Privacy on the Web**](https://kopplamarketing.com/blog/blog-healthcare-security-lessons/) |
 | May 2026 | [**Clients Talk to AI First: How Therapists Must Adapt**](https://kopplamarketing.com/blog/clients-ai-mental-health-conversations/) |
-| Mar 2026 | [**Build a Client Pipeline You Control as a Therapist**](https://kopplamarketing.com/blog/build-client-pipeline-therapists/) |
-| Mar 2026 | [**Therapist SEO: Why Search Volume Is the Wrong Metric**](https://kopplamarketing.com/blog/therapist-seo-content-strategy-beyond-keywords/) |
 <!-- BLOG-POST-LIST:END -->
