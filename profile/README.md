@@ -13,6 +13,8 @@ We build tools and services that help mental health professionals grow their pra
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Sep 2026 | [**Mental Health Website Development Guide**](https://kopplamarketing.com/blog/mental-health-website-development-guide/) |
+| Sep 2026 | [**Psychology Today Referrals Down? Track These 4 Numbers**](https://kopplamarketing.com/blog/psychology-today-referrals-down-2026/) |
 | Aug 2026 | [**Google Business Profile for Therapists: Eligibility &amp; Setup**](https://kopplamarketing.com/blog/get-clients-google-business-profile-therapists/) |
 | Jun 2026 | [**How to Optimize Your Therapy Website for AI Search Queries (2026 Guide)**](https://kopplamarketing.com/blog/optimize-therapy-website-for-ai-search-queries/) |
 | Jun 2026 | [**Therapist&#x27;s Guide to Email Marketing for Mental Health**](https://kopplamarketing.com/blog/therapists-guide-to-email-marketing-for-mental-health/) |
@@ -21,6 +23,4 @@ We build tools and services that help mental health professionals grow their pra
 | Jun 2026 | [**AI Search Optimization for Therapists: A 2026 Guide**](https://kopplamarketing.com/blog/seo-for-therapists-ai-search-2025/) |
 | Jun 2026 | [**Local SEO for Therapists: Schema &amp; NAP Setup**](https://kopplamarketing.com/blog/therapist-local-seo-google-business-profile-schema/) |
 | Jun 2026 | [**Generative Engine Optimization (GEO) for Private Practices**](https://kopplamarketing.com/blog/generative-engine-optimization-for-private-practices/) |
-| May 2026 | [**How Health Systems Think About Mental Health Client Privacy on the Web**](https://kopplamarketing.com/blog/blog-healthcare-security-lessons/) |
-| May 2026 | [**Clients Talk to AI First: How Therapists Must Adapt**](https://kopplamarketing.com/blog/clients-ai-mental-health-conversations/) |
 <!-- BLOG-POST-LIST:END -->
