@@ -13,6 +13,7 @@ We build tools and services that help mental health professionals grow their pra
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Oct 2026 | [**HIPAA-Compliant Online Reviews: A Guide for Therapists**](https://kopplamarketing.com/blog/hipaa-compliance-for-online-reviews/) |
 | Oct 2026 | [**Build a Client Pipeline You Control as a Therapist**](https://kopplamarketing.com/blog/build-client-pipeline-therapists/) |
 | Oct 2026 | [**Answer Engine Optimization for Therapists**](https://kopplamarketing.com/blog/answer-engine-optimization-for-therapists/) |
 | Oct 2026 | [**Advanced Mental Health Marketing Strategies for Practices**](https://kopplamarketing.com/blog/advanced-mental-health-digital-marketing-strategies/) |
@@ -22,5 +23,4 @@ We build tools and services that help mental health professionals grow their pra
 | Aug 2026 | [**Google Business Profile for Therapists: Eligibility &amp; Setup**](https://kopplamarketing.com/blog/get-clients-google-business-profile-therapists/) |
 | Jun 2026 | [**How to Optimize Your Therapy Website for AI Search Queries (2026 Guide)**](https://kopplamarketing.com/blog/optimize-therapy-website-for-ai-search-queries/) |
 | Jun 2026 | [**Therapist&#x27;s Guide to Email Marketing for Mental Health**](https://kopplamarketing.com/blog/therapists-guide-to-email-marketing-for-mental-health/) |
-| Jun 2026 | [**Mental Health SEO Keywords: 40+ Examples for Therapists**](https://kopplamarketing.com/blog/best-mental-health-seo-keywords-for-content-marketing/) |
 <!-- BLOG-POST-LIST:END -->
